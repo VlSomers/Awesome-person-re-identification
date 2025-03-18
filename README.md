@@ -23,6 +23,7 @@ This is a repository for organizing articles related to person re-identification
 
 | Conference  | Webpage Link | Person Re-ID | Vehicle Re-ID |
 |---           |---   |---|---|
+| [ECCV2024](#ECCV2024) | [Click](https://openaccess.thecvf.com/ECCV2024)  | 7 | 0 | 
 | [CVPR2024](#CVPR2024) | [Click](https://openaccess.thecvf.com/CVPR2024)  | 17 | 1 | 
 | [WACV2024](#WACV2024) | [Click](https://openaccess.thecvf.com/WACV2024)  | 7 | 0 | 
 | [ICCV2023](#ICCV2023) | [Click](https://openaccess.thecvf.com/ICCV2023)  | 13 | 0 | 
@@ -52,6 +53,18 @@ This is a repository for organizing articles related to person re-identification
 - [Codes](#codes)
 
 ---
+
+## ECCV2024
+
+- <ins>***Person re-identification***</ins>
+> ###### 1) *"KPR: Keypoint Promptable Re-Identification"* [[paper](https://arxiv.org/abs/2407.18112)] [[github](https://github.com/VlSomers/keypoint_promptable_reidentification)]
+> ###### 2) *"Adaptive High-Frequency Transformer for Diverse Wildlife Re-Identification"* [[paper](https://arxiv.org/abs/2410.06977)]
+> ###### 3) *"Multi-Memory Matching for Unsupervised Visible-Infrared Person Re-Identification"* [[paper](https://arxiv.org/abs/2401.06825)] [[github](https://github.com/shijiangming1/MMM)]
+> ###### 4) *"Domain Shifting: A Generalized Solution for Heterogeneous Cross-Modality Person Re-Identification"* [[paper](https://link.springer.com/chapter/10.1007/978-3-031-73220-1_17)]
+> ###### 5) *"Rethinking Normalization Layers for Domain Generalizable Person Re-identification"* [[paper](https://link.springer.com/chapter/10.1007/978-3-031-72890-7_16)]
+> ###### 6) *"Privacy-Preserving Adaptive Re-Identification without Image Transfer"* [[paper](https://arxiv.org/abs/2407.12589)]
+> ###### 7) *"WRIM-Net: Wide-Ranging Information Mining Network for Visible-Infrared Person Re-Identification"* [[paper](https://www.arxiv.org/abs/2408.10624)]
+
 
 ## CVPR2024
 
